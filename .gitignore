@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+/tmp/asusu/
+*.mp4
+*.wav
+*.mp3
+*.m4a
+
+# IDE
+.vscode/
+.idea/
